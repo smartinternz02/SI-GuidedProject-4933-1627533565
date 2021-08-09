@@ -1,7 +1,7 @@
 # Liver Patient Analysis
 ## Flask model 
-First open jupyter notebook
-Then open Liver_Patient_Analysis.ipynb
+- First open jupyter notebook
+- Then open Liver_Patient_Analysis.ipynb
 Go to Kernel and click on restart and run all
 After that,our model will be saved in the respective folder
 Now open Flask folder in any IDE(vscode, spyder,etc)
