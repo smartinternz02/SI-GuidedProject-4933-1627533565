@@ -1,4 +1,4 @@
-# Liver Patient Analysis
+# Liver Patient Analysis Using IBM Watson
 ## Flask model 
 - First open jupyter notebook
 - Then open Liver_Patient_Analysis.ipynb
